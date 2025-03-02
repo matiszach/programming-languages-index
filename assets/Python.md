@@ -8,12 +8,8 @@ Python is a high-level, general-purpose programming language. Its design philoso
 
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 * [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
+* [Learn Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+* [Top 10 Websites to Learn Python Programming for FREE in 2024 - Medium](https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)
 * [Welcome to Python.org](https://www.python.org/)
-* [Learn Python Programming](https://www.programiz.com/python-programming)
-* [Python Courses & Tutorials - Codecademy](https://www.codecademy.com/catalog/language/python)
 
 
-## Memes
-**Results:**
-
-<img src="./assets/Python/memes/img1.jpg" alt="img1" />
