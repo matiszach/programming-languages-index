@@ -8,7 +8,7 @@
 
 *  **Feb 2024 place** - 1
 
-* [More information about the language](./languages/Python.md)
+* [More information about the language](./assets/Python.md)
 
 ## 2. C++
 
@@ -18,7 +18,7 @@
 
 *  **Feb 2024 place** - 3
 
-* [More information about the language](./languages/C++.md)
+* [More information about the language](./assets/C++.md)
 
 ## 3. Java
 
@@ -28,7 +28,7 @@
 
 *  **Feb 2024 place** - 4
 
-* [More information about the language](./languages/Java.md)
+* [More information about the language](./assets/Java.md)
 
 ## 4. C
 
@@ -38,7 +38,7 @@
 
 *  **Feb 2024 place** - 2
 
-* [More information about the language](./languages/C.md)
+* [More information about the language](./assets/C.md)
 
 ## 5. C#
 
@@ -48,7 +48,7 @@
 
 *  **Feb 2024 place** - 5
 
-* [More information about the language](./languages/C#.md)
+* [More information about the language](./assets/C#.md)
 
 ## 6. JavaScript
 
@@ -58,7 +58,7 @@
 
 *  **Feb 2024 place** - 6
 
-* [More information about the language](./languages/JavaScript.md)
+* [More information about the language](./assets/JavaScript.md)
 
 ## 7. SQL
 
@@ -68,7 +68,7 @@
 
 *  **Feb 2024 place** - 7
 
-* [More information about the language](./languages/SQL.md)
+* [More information about the language](./assets/SQL.md)
 
 ## 8. Go
 
@@ -78,7 +78,7 @@
 
 *  **Feb 2024 place** - 8
 
-* [More information about the language](./languages/Go.md)
+* [More information about the language](./assets/Go.md)
 
 ## 9. Delphi/Object Pascal
 
@@ -88,7 +88,7 @@
 
 *  **Feb 2024 place** - 12
 
-* [More information about the language](./languages/Delphi/Object Pascal.md)
+* [More information about the language](./assets/Delphi/Object Pascal.md)
 
 ## 10. Visual Basic
 
@@ -98,7 +98,7 @@
 
 *  **Feb 2024 place** - 9
 
-* [More information about the language](./languages/Visual Basic.md)
+* [More information about the language](./assets/Visual Basic.md)
 
 ## 11. Fortran
 
@@ -108,7 +108,7 @@
 
 *  **Feb 2024 place** - 11
 
-* [More information about the language](./languages/Fortran.md)
+* [More information about the language](./assets/Fortran.md)
 
 ## 12. Scratch
 
@@ -118,7 +118,7 @@
 
 *  **Feb 2024 place** - 15
 
-* [More information about the language](./languages/Scratch.md)
+* [More information about the language](./assets/Scratch.md)
 
 ## 13. Rust
 
@@ -128,7 +128,7 @@
 
 *  **Feb 2024 place** - 18
 
-* [More information about the language](./languages/Rust.md)
+* [More information about the language](./assets/Rust.md)
 
 ## 14. PHP
 
@@ -138,7 +138,7 @@
 
 *  **Feb 2024 place** - 10
 
-* [More information about the language](./languages/PHP.md)
+* [More information about the language](./assets/PHP.md)
 
 ## 15. R
 
@@ -148,7 +148,7 @@
 
 *  **Feb 2024 place** - 21
 
-* [More information about the language](./languages/R.md)
+* [More information about the language](./assets/R.md)
 
 ## 16. MATLAB
 
@@ -158,7 +158,7 @@
 
 *  **Feb 2024 place** - 13
 
-* [More information about the language](./languages/MATLAB.md)
+* [More information about the language](./assets/MATLAB.md)
 
 ## 17. Assembly language
 
@@ -168,7 +168,7 @@
 
 *  **Feb 2024 place** - 14
 
-* [More information about the language](./languages/Assembly language.md)
+* [More information about the language](./assets/Assembly language.md)
 
 ## 18. COBOL
 
@@ -178,7 +178,7 @@
 
 *  **Feb 2024 place** - 19
 
-* [More information about the language](./languages/COBOL.md)
+* [More information about the language](./assets/COBOL.md)
 
 ## 19. Ruby
 
@@ -188,7 +188,7 @@
 
 *  **Feb 2024 place** - 20
 
-* [More information about the language](./languages/Ruby.md)
+* [More information about the language](./assets/Ruby.md)
 
 ## 20. Prolog
 
@@ -198,4 +198,4 @@
 
 *  **Feb 2024 place** - 24
 
-* [More information about the language](./languages/Prolog.md)
+* [More information about the language](./assets/Prolog.md)
