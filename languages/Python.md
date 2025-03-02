@@ -16,4 +16,4 @@ Python is a high-level, general-purpose programming language. Its design philoso
 ## Memes
 **Results:**
 
-![Img0](https://raw.githubusercontent.com/matiszach/repository/main/languages/Python/memes/img1.jpg)
+![Img0](./languages/Python/memes/img1.jpg)
