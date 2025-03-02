@@ -39,14 +39,6 @@ defaults:
     values:
       layout: "page"
 
-# Collections configuration
-collections:
-  languages:
-    output: true
-    permalink: /languages/:name/memes/
-
-# Add other configurations as needed (theme, plugins, etc.)
-theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
