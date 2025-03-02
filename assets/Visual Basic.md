@@ -10,6 +10,6 @@ Visual Basic is a name for a family of programming languages from Microsoft. It 
 * [Get started with Visual Basic - Visual Basic | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/getting-started/)
 * [Introduction to Visual Basic](https://www.vbtutor.net/lesson1.html)
 * [VB.Net Programming Tutorial - Online Tutorials Library](https://www.tutorialspoint.com/vb.net/index.htm)
-* [Programming Guide - Visual Basic | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/)
+* [Programming Guide - Visual Basic Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/)
 
 

@@ -7,7 +7,7 @@ PHP is a general-purpose scripting language geared towards web development. It w
 **Results:**
 
 * [PHP Tutorial - W3Schools](https://www.w3schools.com/php/)
-* [Introduction to Programming in PHP | IronCoders](https://ironcoders.com/learn/php)
+* [Introduction to Programming in PHP IronCoders](https://ironcoders.com/learn/php)
 * [PHP Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/php-tutorial/)
 * [Learn PHP - Codecademy](https://www.codecademy.com/learn/paths/php-skill)
 * [PHP Tutorial](https://www.phptutorial.net/)

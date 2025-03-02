@@ -10,6 +10,6 @@ Structured Query Language (SQL) (pronounced /ˌɛsˌkjuˈɛl/ S-Q-L; or alternat
 * [SQL Easy: The Best Way to Learn SQL (It's FREE!)](https://www.sql-easy.com/)
 * [Learn SQL - Codecademy](https://www.codecademy.com/learn/learn-sql)
 * [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/default.asp?clid=618)
-* [SQL online courses | LearnSQL.com](https://learnsql.com/)
+* [SQL online courses LearnSQL.com](https://learnsql.com/)
 
 

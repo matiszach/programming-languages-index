@@ -88,7 +88,7 @@
 
 *  **Feb 2024 place** - 12
 
-* [More information about the language](./assets/Delphi/Object Pascal.md)
+* [More information about the language](./assets/Pascal.md)
 
 ## 10. Visual Basic
 

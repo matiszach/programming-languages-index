@@ -9,7 +9,7 @@ Pascal is an imperative and procedural programming language, designed by Niklaus
 * [Pascal Tutorial](https://www.tutorialspoint.com/pascal/index.htm)
 * [Basic Pascal Tutorial/Introduction - Free Pascal wiki](https://wiki.freepascal.org/Basic_Pascal_Tutorial/Introduction)
 * [ Pascal - Online Tutorials Library](https://www.tutorialspoint.com/pascal/pascal_tutorial.pdf)
-* [App Development Using Pascal | Free Online Course | Alison](https://alison.com/course/app-development-using-pascal)
+* [App Development Using Pascal Free Online Course Alison](https://alison.com/course/app-development-using-pascal)
 * [Learning Center](https://www.getlazarus.org/learn/)
 
 

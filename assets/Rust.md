@@ -8,8 +8,8 @@ Rust is a general-purpose programming language emphasizing performance, type saf
 
 * [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)
 * [Rust Programming Language](https://www.rust-lang.org/)
-* [Take your first steps with Rust - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
-* [Learn Rust Programming for Free | From top universities](https://rustfundamentals.com/)
+* [Take your first steps with Rust - Training Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+* [Learn Rust Programming for Free From top universities](https://rustfundamentals.com/)
 * [Getting started - Rust Programming Language](https://www.rust-lang.org/learn/get-started)
 
 

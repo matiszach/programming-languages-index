@@ -10,6 +10,6 @@ MATLAB (an abbreviation of "MATrix LABoratory") is a proprietary multi-paradigm 
 * [MATLAB Tutorial](https://www.tutorialspoint.com/matlab/index.htm)
 * [Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/)
 * [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html)
-* [MATLAB Onramp | Self-Paced Online Courses - MATLAB & Simulink - MathWorks](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+* [MATLAB Onramp Self-Paced Online Courses - MATLAB & Simulink - MathWorks](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 
 

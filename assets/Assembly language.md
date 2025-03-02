@@ -7,7 +7,7 @@ In computer programming,  assembly language (alternatively assembler language or
 **Results:**
 
 * [Assembly Programming Tutorial - Online Tutorials Library](https://www.tutorialspoint.com/assembly_programming/index.htm)
-* [Assembly Programming Language | Free Online Course - Alison](https://alison.com/course/assembly-language-programming)
+* [Assembly Programming Language Free Online Course - Alison](https://alison.com/course/assembly-language-programming)
 * [Learn Assembly Language - Best Assembly Language Tutorials - Hackr](https://hackr.io/tutorials/learn-assembly-language)
 * [Assembly Language Tutorials](https://www.tutorialkart.com/assembly-language-tutorials/)
 * [15+ Best Assembly Language Courses & Certifications - Online Courseing](https://onlinecourseing.com/assembly-language-courses/)
